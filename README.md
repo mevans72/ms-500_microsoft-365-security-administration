@@ -2,9 +2,9 @@
 Study Material for the MS-500: Microsoft 365 Security Administration
 
 ## Exam References
-* [MS-500 Exam](https://docs.microsoft.com/en-us/learn/certifications/exams/ms-500)
+* [MS-500 Exam Link](https://docs.microsoft.com/en-us/learn/certifications/exams/ms-500)
 
-* [MS-500 Skills Outline or Exam Blueprint](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEI3)
+* [MS-500 Exam Skills Outline or Blueprint](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEI3)
 
 ## MS Learning Paths
 * [MS-500 Part 1 - Implement and manage identity and access](https://docs.microsoft.com/en-us/learn/paths/implement-manage-identity-access/)
