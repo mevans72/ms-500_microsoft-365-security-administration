@@ -1,4 +1,5 @@
 # Implement and Manage Threat Protection
  
-* [	What is hybrid identity with Azure Active Directory? | Microsoft Docs	](	https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-hybrid-identity	)
+* [What is Azure Application Gateway? | Microsoft Docs	](	https://docs.microsoft.com/en-us/azure/application-gateway/overview)
 
+https://docs.microsoft.com/en-us/azure/application-gateway/overview
