@@ -7,7 +7,7 @@ Study Material for the MS-500: Microsoft 365 Security Administration
 
 
 TEST
-* [	What is hybrid identity with Azure Active Directory? | Microsoft Docs	] (	https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-hybrid-identity	)
+* [What is hybrid identity with Azure Active Directory? | Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-hybrid-identity)
 * [	How to troubleshoot Azure Active Directory Sync tool installation and Configuration Wizard errors - Active Directory | Microsoft Docs	] (	https://docs.microsoft.com/en-US/troubleshoot/azure/active-directory/installation-configuration-wizard-errors	)
 * [	Create a basic group and add members - Azure Active Directory | Microsoft Docs	] (	https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-groups-create-azure-portal 	)
 * [	Rules for dynamically populated groups membership - Azure AD | Microsoft Docs	] (	https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/groups-dynamic-membership	)
