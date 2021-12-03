@@ -13,4 +13,4 @@ Study Material for the MS-500: Microsoft 365 Security Administration
 * [MS-500 part 4 - Manage Governance and Compliance Features in Microsoft 365](https://docs.microsoft.com/en-us/learn/paths/manage-governance-compliance-features-microsoft-365/)
 
 ## Pluralsight - Microsoft 365 Security Administration
-* [Microsoft 365 Security Administration (MS-500)](https://app.pluralsight.com/paths/certificate/microsoft-365-security-administration-ms-500)
+* [MS-500: Microsoft 365 Security Administration](https://app.pluralsight.com/paths/certificate/microsoft-365-security-administration-ms-500)
