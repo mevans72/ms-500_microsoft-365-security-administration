@@ -1,5 +1,6 @@
 # Implement and manage identity and access
- 
+
+## Links
 * [	What is hybrid identity with Azure Active Directory? | Microsoft Docs	](	https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-hybrid-identity	)
 * [	How to troubleshoot Azure Active Directory Sync tool installation and Configuration Wizard errors - Active Directory | Microsoft Docs	](	https://docs.microsoft.com/en-US/troubleshoot/azure/active-directory/installation-configuration-wizard-errors	)
 * [	Create a basic group and add members - Azure Active Directory | Microsoft Docs	](	https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-groups-create-azure-portal 	)
@@ -106,3 +107,82 @@
 * [	Remediate risks and unblock users in Azure AD Identity Protection | Microsoft Docs	](	https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/howto-identity-protection-remediate-unblock	)
 * [	Configure the MFA registration policy - Azure Active Directory Identity Protection | Microsoft Docs	](	https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/howto-identity-protection-configure-mfa-policy	)
 * [	FAQs for Identity Protection in Azure Active Directory | Microsoft Docs	](	https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/troubleshooting-identity-protection-faq	)
+
+# Screenshots
+![image](https://user-images.githubusercontent.com/16786624/144684358-c7b990c6-22a6-49a9-a45a-7813ed83b3f4.png)
+
+![image](https://user-images.githubusercontent.com/16786624/144684390-fea80240-116b-4f51-85ef-e745da116917.png)
+
+![image](https://user-images.githubusercontent.com/16786624/144684414-06eb3c74-3648-4668-96a4-98f1aabaa128.png)
+
+![image](https://user-images.githubusercontent.com/16786624/144684421-952c97ec-76fe-43b7-8d3f-95e1f570ef8d.png)
+
+![image](https://user-images.githubusercontent.com/16786624/144684431-ff576eec-fea0-4791-85df-91f2b7e69fd2.png)
+
+![image](https://user-images.githubusercontent.com/16786624/144684447-553b2242-154f-4261-a7bf-8feb4bcb6333.png)
+
+![image](https://user-images.githubusercontent.com/16786624/144684454-96185843-5ddc-44bc-b281-68e62872c0f4.png)
+
+![image](https://user-images.githubusercontent.com/16786624/144684467-773b0e86-ff5f-47a7-8396-043d8c681576.png)
+
+![image](https://user-images.githubusercontent.com/16786624/144684483-35ae24f6-1a14-4682-9aff-54d88278f50a.png)
+
+![image](https://user-images.githubusercontent.com/16786624/144684488-95843115-0a73-4cb9-b3af-f56709d1fc64.png)
+
+![image](https://user-images.githubusercontent.com/16786624/144684498-9ded30af-0d52-40b2-8a5f-aa2da75de00f.png)
+
+![image](https://user-images.githubusercontent.com/16786624/144684514-365c2643-abf3-4cfc-887c-27e611290f74.png)
+
+![image](https://user-images.githubusercontent.com/16786624/144684517-adc6a84f-2392-4a95-97e7-bf1ea37c3f0f.png)
+
+![image](https://user-images.githubusercontent.com/16786624/144684532-7d6a003a-0bdc-4241-8321-158ca96cf620.png)
+
+![image](https://user-images.githubusercontent.com/16786624/144684543-bb3c9c6c-e77f-4d41-9dcb-0f546e0d2267.png)
+
+![image](https://user-images.githubusercontent.com/16786624/144684556-1a4668ba-1c89-49fc-9e47-a1f1423ffb3e.png)
+
+![image](https://user-images.githubusercontent.com/16786624/144684582-c32b6d84-0088-4f1d-801d-03b82de16058.png)
+
+![image](https://user-images.githubusercontent.com/16786624/144684587-07854207-670e-45f7-aa1e-dd1badcc659c.png)
+
+![image](https://user-images.githubusercontent.com/16786624/144684601-f0a6de45-919a-409e-a5df-15bad1f6e782.png)
+
+![image](https://user-images.githubusercontent.com/16786624/144684612-a1cc996a-506c-494e-83f1-910d2e540108.png)
+
+![image](https://user-images.githubusercontent.com/16786624/144684617-9c59b98b-f4ea-4bb7-97dd-0cb0c139a6a9.png)
+
+![image](https://user-images.githubusercontent.com/16786624/144684626-6cd69fac-2d71-4bcf-8e2f-b3f7dce5327e.png)
+
+![image](https://user-images.githubusercontent.com/16786624/144684648-4db02455-7a7c-429c-9d97-aa069c8f1619.png)
+
+![image](https://user-images.githubusercontent.com/16786624/144684657-56b1f16c-72a5-45a0-9ccd-cc0cf96e42c7.png)
+
+![image](https://user-images.githubusercontent.com/16786624/144684666-db5a0c8a-c0cc-4245-ad1a-524005af9c0f.png)
+
+![image](https://user-images.githubusercontent.com/16786624/144684675-62c1a975-db6a-41cb-a464-99f53c072fc0.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* [	Configure the MFA registration policy - Azure Active Directory Identity Protection | Microsoft Docs	](	https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/howto-identity-protection-configure-mfa-policy	)
