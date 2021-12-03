@@ -2,4 +2,3 @@
  
 * [What is Azure Application Gateway? | Microsoft Docs	](	https://docs.microsoft.com/en-us/azure/application-gateway/overview)
 
-https://docs.microsoft.com/en-us/azure/application-gateway/overview
