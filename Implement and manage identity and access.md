@@ -107,6 +107,8 @@
 * [	Remediate risks and unblock users in Azure AD Identity Protection | Microsoft Docs	](	https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/howto-identity-protection-remediate-unblock	)
 * [	Configure the MFA registration policy - Azure Active Directory Identity Protection | Microsoft Docs	](	https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/howto-identity-protection-configure-mfa-policy	)
 * [	FAQs for Identity Protection in Azure Active Directory | Microsoft Docs	](	https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/troubleshooting-identity-protection-faq	)
+* [	Configure the MFA registration policy - Azure Active Directory Identity Protection | Microsoft Docs	](	https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/howto-identity-protection-configure-mfa-policy	)
+
 
 # Screenshots
 ![image](https://user-images.githubusercontent.com/16786624/144684358-c7b990c6-22a6-49a9-a45a-7813ed83b3f4.png)
@@ -162,27 +164,3 @@
 ![image](https://user-images.githubusercontent.com/16786624/144684675-62c1a975-db6a-41cb-a464-99f53c072fc0.png)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* [	Configure the MFA registration policy - Azure Active Directory Identity Protection | Microsoft Docs	](	https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/howto-identity-protection-configure-mfa-policy	)
