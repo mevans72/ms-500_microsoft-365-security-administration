@@ -1,8 +1,6 @@
 # Implement and Manage Threat Protection
  
 * [What is Azure Application Gateway? | Microsoft Docs	](	https://docs.microsoft.com/en-us/azure/application-gateway/overview)
-
-* [	What is Azure Application Gateway | Microsoft Docs](https://docs.microsoft.com/en-us/azure/application-gateway/overview	)
 * [	Microsoft Defender for Identity architecture | Microsoft Docs](https://docs.microsoft.com/en-us/defender-for-identity/architecture	)
 * [	Planning your Microsoft Defender for Identity deployment | Microsoft Docs](https://docs.microsoft.com/en-us/defender-for-identity/capacity-planning	)
 * [	Azure Network Watcher | Microsoft Docs](https://docs.microsoft.com/en-gb/azure/network-watcher/network-watcher-monitoring-overview	)
