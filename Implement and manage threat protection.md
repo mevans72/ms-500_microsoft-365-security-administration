@@ -11,7 +11,7 @@
 * [	Create Defender for Cloud Apps access policies to allow and block access | Microsoft Docs](https://docs.microsoft.com/en-us/defender-cloud-apps/access-policy-aad	)
 * [	Create anomaly detection policies in Defender for Cloud Apps | Microsoft Docs](https://docs.microsoft.com/en-us/defender-cloud-apps/anomaly-detection-policy	)
 * [	Microsoft Defender for Identity prerequisites | Microsoft Docs](https://docs.microsoft.com/en-us/defender-for-identity/prerequisites	)
-* [	Microsoft Defender for Identity prerequisites | Microsoft Docs](https://docs.microsoft.com/en-us/defender-for-identity/sensor-update	)
+* [	Update your Microsoft Defender for Identity sensors | Microsoft Docs](https://docs.microsoft.com/en-us/defender-for-identity/sensor-update	)
 * [	Microsoft Defender for Identity architecture | Microsoft Docs](https://docs.microsoft.com/en-us/defender-for-identity/architecture	)
 * [	Planning your Microsoft Defender for Identity deployment | Microsoft Docs](https://docs.microsoft.com/en-us/defender-for-identity/capacity-planning	)
 * [	Use role-based access control to grant fine-grained access to Microsoft 365 Defender portal | Microsoft Docs](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/rbac?view=o365-worldwide	)
