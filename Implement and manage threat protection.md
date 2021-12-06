@@ -119,4 +119,4 @@
 * [	Microsoft Defender for Identity prerequisites | Microsoft Docs](https://docs.microsoft.com/en-us/defender-for-identity/prerequisites#defender-for-identity-standalone-sensor-requirements	)
 * [	Configure Windows Event Forwarding in Microsoft Defender for Identity | Microsoft Docs](https://docs.microsoft.com/en-us/defender-for-identity/configure-event-forwarding	)
 * [	Update your Microsoft Defender for Identity sensors | Microsoft Docs](https://docs.microsoft.com/en-us/defender-for-identity/sensor-update	)
-* [	Turn auditing on or off - Microsoft 365 Compliance | Microsoft Docs](https://docs.microsoft.com/en-US/microsoft-365/compliance/turn-audit-log-search-on-or-off?view=o365-worldwide	)![image](https://user-images.githubusercontent.com/16786624/144788651-076229a6-0f82-4bb0-b780-c876a224306c.png)
+* [	Turn auditing on or off - Microsoft 365 Compliance | Microsoft Docs](https://docs.microsoft.com/en-US/microsoft-365/compliance/turn-audit-log-search-on-or-off?view=o365-worldwide	)
