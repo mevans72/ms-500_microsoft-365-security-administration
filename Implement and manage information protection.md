@@ -18,7 +18,6 @@
 * [	Labeling actions reported in Activity explorer - Microsoft 365 Compliance | Microsoft Docs](https://docs.microsoft.com/en-us/microsoft-365/compliance/data-classification-activity-explorer-available-events?view=o365-worldwide	)
 * [	Learn about inactive mailboxes - Microsoft 365 Compliance | Microsoft Docs](https://docs.microsoft.com/en-us/microsoft-365/compliance/inactive-mailboxes-in-office-365?view=o365-worldwide	)
 * [	Learn about retention policies & labels to automatically retain or delete content - Microsoft 365 Compliance | Microsoft Docs](https://docs.microsoft.com/en-us/microsoft-365/compliance/retention?view=o365-worldwide	)
-* [	Learn about retention policies & labels to automatically retain or delete content - Microsoft 365 Compliance | Microsoft Docs](https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fmicrosoft-365%2Fcompliance%2Fretention%3Fview%3Do365-worldwide](https://docs.microsoft.com/en-us/microsoft-365/compliance/retention?view=o365-worldwide	)
 * [	Learn about sensitivity labels - Microsoft 365 Compliance | Microsoft Docs](https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels?view=o365-worldwide	)
 * [	Microsoft 365 alert policies - Microsoft 365 Compliance | Microsoft Docs](https://docs.microsoft.com/en-us/microsoft-365/compliance/alert-policies?view=o365-worldwide	)
 * [	Remove a former employee - Overview - Microsoft 365 admin | Microsoft Docs](https://docs.microsoft.com/en-us/microsoft-365/admin/add-users/remove-former-employee?view=o365-worldwide	)
