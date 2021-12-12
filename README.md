@@ -14,3 +14,9 @@ Study Material for the MS-500: Microsoft 365 Security Administration
 
 ## Pluralsight - Microsoft 365 Security Administration
 * [MS-500 Microsoft 365 Security Administration Course](https://app.pluralsight.com/paths/certificate/microsoft-365-security-administration-ms-500)
+
+## Recommended Readings and Links
+* [Implement and manage identity and access](https://github.com/mevans72/ms-500_microsoft-365-security-administration.md/blob/main/Implement%20and%20manage%20identity%20and%20access.md)
+* [Implement and manage threat protection](https://github.com/mevans72/ms-500_microsoft-365-security-administration.md/blob/main/Implement%20and%20manage%20threat%20protection.md)
+* [Implement and manage information protection](https://github.com/mevans72/ms-500_microsoft-365-security-administration.md/blob/main/Implement%20and%20manage%20information%20protection.md)
+* [Manage Governance and Compliance Features in Microsoft 365]()
