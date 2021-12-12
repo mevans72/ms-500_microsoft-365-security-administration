@@ -35,4 +35,3 @@
 * [	Default Retention Policy in Exchange Online | Microsoft Docs](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/default-retention-policy	)
 * [	In-Place Hold and Litigation Hold in Exchange Online | Microsoft Docs](https://docs.microsoft.com/en-us/exchange/security-and-compliance/in-place-and-litigation-holds	)
 * [	Automatically apply a sensitivity label to content in Microsoft 365 - Microsoft 365 Compliance | Microsoft Docs](https://docs.microsoft.com/en-us/microsoft-365/compliance/apply-sensitivity-label-automatically?view=o365-worldwide	)
-
