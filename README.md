@@ -1,4 +1,4 @@
-# ms-500_microsoft-365-security-administration
+# MS-500: Microsoft 365 Security Administration
 Study Material for the MS-500: Microsoft 365 Security Administration
 
 ## Exam References
