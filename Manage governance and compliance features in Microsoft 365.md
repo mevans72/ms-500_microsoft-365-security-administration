@@ -45,7 +45,6 @@
 * [	New-ComplianceSearch (ExchangePowerShell) | Microsoft Docs](https://docs.microsoft.com/en-us/powershell/module/exchange/new-compliancesearch?view=exchange-ps	)
 * [	New-ComplianceSearchAction (ExchangePowerShell) | Microsoft Docs](https://docs.microsoft.com/en-us/powershell/module/exchange/new-compliancesearchaction?view=exchange-ps	)
 * [	Noncompliant message and actions with Microsoft Intune | Microsoft Docs](https://docs.microsoft.com/en-us/mem/intune/protect/actions-for-noncompliance	)
-* [	Office 365 Data Subject Requests Under the GDPR and CCPA - Microsoft GDPR | Microsoft Docs](https://docs.microsoft.com/en-us/compliance/regulatory/gdpr-dsr-Office365?toc=%2Fmicrosoft-365%2Fenterprise%2Ftoc.json&view=o365-worldwide	)
 * [	Office 365 Data Subject Requests Under the GDPR and CCPA - Microsoft GDPR | Microsoft Docs](https://docs.microsoft.com/en-us/compliance/regulatory/gdpr-dsr-Office365?view=o365-worldwide	)
 * [	Overview of alerting and notification monitoring in Azure - Azure Monitor | Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-overview	)
 * [	Permissions - Security & Compliance Center - Office 365 | Microsoft Docs](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/permissions-in-the-security-and-compliance-center?view=o365-worldwide	)
