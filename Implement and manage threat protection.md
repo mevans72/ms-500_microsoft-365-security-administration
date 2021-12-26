@@ -48,6 +48,7 @@
 * [	Manage quarantined messages and files as an admin - Office 365 | Microsoft Docs](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide	)
 * [	Microsoft 365 admin center - Overview | Microsoft Docs](https://docs.microsoft.com/en-us/microsoft-365/business-video/admin-center-overview?view=o365-worldwide	)
 * [	Microsoft Defender for Cloud - an introduction | Microsoft Docs](https://docs.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction	)
+* [ Microsoft Defender for Endpoint documentation | Microsoft Docs](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/?view=o365-worldwide )
 * [	Microsoft Defender for Endpoint - Configuration Manager | Microsoft Docs](https://docs.microsoft.com/en-us/mem/configmgr/protect/deploy-use/defender-advanced-threat-protection	)
 * [	Microsoft Defender for Identity architecture | Microsoft Docs](https://docs.microsoft.com/en-us/defender-for-identity/architecture	)
 * [	Microsoft Defender for Identity prerequisites | Microsoft Docs](https://docs.microsoft.com/en-us/defender-for-identity/prerequisites	)
